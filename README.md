@@ -134,6 +134,71 @@ A significant decline was observed after summer, with sales dropping steadily th
 
 A mild recovery was recorded toward the end of the year, suggesting a clear seasonal sales pattern characterized by **strong summer performance and weaker fall sales**.
 
+## Total Sales by Reion
+<img width="308" height="178" alt="Image" src="https://github.com/user-attachments/assets/04d43425-b8fd-47a1-8250-ff4cea4895dd" />
+
+### Regional Sales Breakdown
+
+The donut chart below illustrates the distribution of total sales across five regions:
+
+| Region   | Sales Share |
+|----------|-------------|
+| East     | 27.95%      |
+| North    | 25.96%      |
+| Central  | 19.44%      |
+| South    | 14.83%      |
+| West     | 11.81%      |
+
+ The East and North regions together account for over 53% of total sales,
+ making them the primary revenue drivers of the business.
+
+ ##  Total Sales by Product Name
+ <img width="329" height="386" alt="Image" src="https://github.com/user-attachments/assets/4c252ef2-2fd1-4410-87f9-531f49e35b50" />
+
+### Product Sales Breakdown
+
+| # | Product | Total Sales |
+|---|---------|-------------|
+| 1 | USB-C Hub – Pro | **$26K** |
+| 2 | Mechanical Keyboard | $16K |
+| 3 | Whiteboard (variant 1) | $16K |
+| 4 | Whiteboard (variant 2) | $16K |
+| 5 | Paper Clips (10-pack) | $15K |
+| 6 | Bluetooth Speaker | $15K |
+| 7 | Desk Organizer | $15K |
+| 8 | Memory Card | $15K |
+| 9 | USB-C Hub | $14K |
+| 10 | Laser Printer | $13K |
+| 11 | Photo Paper Pack | $13K |
+| 12 | SSD 1TB | $13K |
+| 13 | Network Card | $12K |
+| 14 | Portable Projector | $12K |
+| 15 | Whiteboard (variant 3) | $11K |
+| 16 | USB Wi-Fi Adapter (v1) | $11K |
+| 17 | Ergonomic Chair | $11K |
+| 18 | Network Card (v2) | $11K |
+| 19 | USB Wi-Fi Adapter (v2) | $11K |
+| 20 | USB-C Hub – P | $11K |
+| 21 | Ink Cartridge | $10K |
+| 22 | Laser Printer (variant) | $10K |
+
+ The USB-C Hub – Pro is the clear top performer at $26K 
+ significantly ahead of every other product. The next tier clusters tightly between
+ $15K–$16K, showing consistent demand across office and tech accessories.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 
 ## Author
 **Azeez Akinkunmi Folarin**  
