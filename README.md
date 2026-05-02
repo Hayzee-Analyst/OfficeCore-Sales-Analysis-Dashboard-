@@ -3,9 +3,9 @@
 <img width="1000" height="523" alt="Image" src="https://github.com/user-attachments/assets/525a473f-3fba-47c9-9cf8-387b0308acb1" />
 
 ## Project Overview
-This project analyzes sales performance data for **OfficeCore Distributors Inc.**, a mid-sized B2B office supplies distribution company operating across five regional territories in the United States.
+This project analyzes sales performance data for OfficeCore Distributors Inc. a mid-sized B2B office supplies distribution company operating across five regional territories in the United States.
 
-The goal was to build an interactive **2-page Power BI dashboard** that provides leadership with clear visibility into company-wide sales performance for better strategic decision-making.
+The goal was to build an interactive 2 page Power BI dashboard** that provides leadership with clear visibility into company-wide sales performance for better strategic decision-making.
 
 ---
 
@@ -111,7 +111,7 @@ Additional DAX measures were created for key business metrics, including:
 
 ## Data Visualization
 
-An interactive **2-page Power BI dashboard** was developed to provide stakeholders with actionable business insights.
+An interactive 2 page Power BI dashboard was developed to provide stakeholders with actionable business insights.
 
 ### Dashboard Features
 - KPI Cards for Sales, Orders, Average Order value, and Quantity Sold
@@ -185,6 +185,113 @@ The donut chart below illustrates the distribution of total sales across five re
  The USB-C Hub – Pro is the clear top performer at $26K 
  significantly ahead of every other product. The next tier clusters tightly between
  $15K–$16K, showing consistent demand across office and tech accessories.
+
+ ##  Total Sales by Rep
+ <img width="322" height="174" alt="Image" src="https://github.com/user-attachments/assets/02033cb6-f754-41db-990c-cd974b6f4e7b" />
+
+### Sales Rep Performance Breakdown
+
+| # | Sales Rep | Total Sales |
+|---|-----------|-------------|
+| 1 | Riley Harris | **$29K** |
+| 2 | Shawn Nguyen | $28K |
+| 3 | Peyton Nguyen | $25K |
+| 4 | Rowan Anderson | $25K |
+| 5 | Dakota White | $25K |
+
+Riley Harris leads the team with $29K in total sales, closely  followed by Shawn Nguyen at $28K. The remaining three reps Peyton Nguyen, Rowan Anderson, and Dakota White — are all tied at $25K, indicating a strong and consistent mid-tier performance across the team.
+
+## Total Sales by Territory
+<img width="275" height="175" alt="Image" src="https://github.com/user-attachments/assets/116e4ecd-dd6e-468b-b3f9-332851bcc5d8" />
+
+### Territory Sales Breakdown
+
+| # | Territory | City | Total Sales |
+|---|-----------|------|-------------|
+| 1 | North America | Austin | **$32K** |
+| 2 | North America | Dallas | $28K |
+| 3 | North America | Chicago | $26K |
+| 4 | Europe | Boston | $24K |
+| 5 | North America | Boise | $21K |
+
+ Austin leads all territories with **$32K** in total sales, making North America the strongest performing region overall. **Dallas** and **Chicago** follow closely, while **Boise** trails as the lowest contributor at **$21K** signaling an opportunity for growth in that territory.
+
+ ##  Sales Performance Matrix  Rep vs Product Category
+ <img width="323" height="413" alt="Image" src="https://github.com/user-attachments/assets/87c610e7-00e4-4ab0-a3e0-97ee63dfd5d8" />
+
+### Breakdown by Rep and Category
+
+| Rep Name | Computer Accessories | Electronics | Furniture | Network |
+|----------|---------------------|-------------|-----------|---------|
+| Skyler Green | $3.28K | $2.44K | $2.02K | $1.97K |
+| Shawn Nguyen | $1.67K | $8.13K | $3.14K | $3.16K |
+| Rowan Anderson | $3.80K | $5.68K | $1.24K | $4.32K |
+| Riley Harris | $3.05K | $5.70K | $2.30K | $4.46K |
+| Reese Smith | $1.92K | $2.41K | $2.08K | $1.90K |
+| Peyton Wright | $2.59K | $3.21K | $2.49K | $2.64K |
+| Peyton Torres | $1.06K | $5.72K | $2.04K | $1.67K |
+| Peyton Smith | $2.72K | $2.56K | $2.66K | $1.80K |
+| Peyton Nguyen | $3.10K | $6.05K | $2.27K | $2.07K |
+| Marley Torres | $3.34K | $3.98K | $1.32K | $1.62K |
+| Logan Scott | $1.88K | $464.52 | $1.54K | $1.44K |
+| Jules Wilson | $2.49K | $6.51K | $2.35K | $917.27 |
+| Hayden Johnson | $1.32K | $4.41K | $1.43K | $2.98K |
+| Finley Wright | $622.38 | $978.80 | $1.11K | $952.90 |
+| Finley Harris | $1.14K | $4.86K | $3.18K | $3.19K |
+| Finley Garcia | $958.53 | $5.98K | $1.32K | $3.04K |
+| **Total** | **$52.02K** | **$103.68K** | **$52.53K** | **$54.55K** |
+
+Key Insight:** **Electronics** dominates all categories with a total of **$103.68K**, nearly double every other category. **Shawn Nguyen** is the standout Electronics performer at **$8.13K**. **Computer Accessories** and **Furniture** are closely matched at**$52.02K** and **$52.53K** respectively, while **Network** sits at **$54.55K**  suggesting balanced demand across the remaining three categories.
+
+##  Sales Performance Matrix — Rep, Region & Order Summary
+<img width="301" height="189" alt="Image" src="https://github.com/user-attachments/assets/328a160d-60b2-4811-8b7d-9b6e5b59c077" />
+
+### Breakdown by Rep, Region, Orders and Units Sold
+
+| Rep Name | Region | Total Order | Unit Sold | Total Sales |
+|----------|--------|-------------|-----------|-------------|
+| Riley Harris | North | $12.4K | 320 | **$29K** |
+| Shawn Nguyen | East | $11.8K | 298 | $28K |
+| Peyton Nguyen | West | $10.2K | 275 | $25K |
+| Rowan Anderson | Central | $9.8K | 260 | $25K |
+| Dakota White | North | $9.5K | 245 | $25K |
+| Avery Smith | East | $8.7K | 230 | $22K |
+| Finley Harris | South | $8.2K | 215 | $20K |
+| Casey Hall | East | $7.9K | 200 | $19K |
+| Finley Anderson | South | $7.4K | 190 | $18K |
+
+Riley Harris** from the **North** region leads across all metrics  highest total orders, units sold, and total sales at **$29K**. The **East** region  has the most rep representation, showing strong team coverage. **South** region  reps trail slightly, indicating a potential area for targeted growth.
+
+##  Recommendations
+
+Based on the analysis of OfficeCore Distributors Inc. sales performance data,
+the following recommendations are proposed for leadership consideration:
+
+1. Double Down on the East and North Regions With both regions accounting
+for over 53% of total sales, leadership should increase resource allocation,
+sales headcount, and marketing efforts in these territories to sustain and
+grow their dominance.
+
+2. Investigate the Summer Sales Spike Revenue peaked between June and July
+exceeding $60K. Understanding what drove that surge whether promotions,
+seasonal demand, or rep activity  could help replicate that performance in
+weaker months like October.
+
+3. Address the Fall Sales Decline Sales hit their lowest point in October
+at approximately $21K. A targeted Q4 sales strategy such as end of year
+promotions, bundle offers, or rep incentives should be introduced to close
+the seasonal gap.
+
+4. Leverage the USB-C Hub  Pro's Success  As the top selling product at
+$26K, leadership should ensure consistent stock availability, explore upselling
+opportunities, and study what makes it perform to apply those lessons to
+lower-performing products.
+
+5. Invest in the South and West Regions  Both regions lag significantly
+behind East and North. A structured growth plan including territory expansion,
+rep training, or localized pricing strategies could unlock untapped revenue
+potential in these underperforming areas.
+
 
 
 
