@@ -137,8 +137,6 @@ A mild recovery was recorded toward the end of the year, suggesting a clear seas
 ## Total Sales by Region
 <img width="308" height="178" alt="Image" src="https://github.com/user-attachments/assets/04d43425-b8fd-47a1-8250-ff4cea4895dd" />
 
-### Total Sales by Region
-
 The East region led overall sales, contributing **27.95%** of total revenue,
 followed closely by the North at **25.96%**. The Central and West regions 
 accounted for **19.44%** and **14.83%** respectively, while the South region 
@@ -166,16 +164,6 @@ the Hub category as a whole holds significant customer appeal across multiple pr
 
  ##  Total Sales by Rep
  <img width="322" height="174" alt="Image" src="https://github.com/user-attachments/assets/02033cb6-f754-41db-990c-cd974b6f4e7b" />
-
-### Sales Rep Performance Breakdown
-
-| # | Sales Rep | Total Sales |
-|---|-----------|-------------|
-| 1 | Riley Harris | **$29K** |
-| 2 | Shawn Nguyen | $28K |
-| 3 | Peyton Nguyen | $25K |
-| 4 | Rowan Anderson | $25K |
-| 5 | Dakota White | $25K |
 
 Riley Harris leads the team with $29K in total sales, closely  followed by Shawn Nguyen at $28K. The remaining three reps Peyton Nguyen, Rowan Anderson, and Dakota White — are all tied at $25K, indicating a strong and consistent mid-tier performance across the team.
 
