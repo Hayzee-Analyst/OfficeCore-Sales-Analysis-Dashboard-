@@ -185,28 +185,6 @@ Riley Harris leads the team with $29K in total sales, closely  followed by Shawn
  ##  Sales Performance Matrix  Rep vs Product Category
  <img width="323" height="413" alt="Image" src="https://github.com/user-attachments/assets/87c610e7-00e4-4ab0-a3e0-97ee63dfd5d8" />
 
-### Breakdown by Rep and Category
-
-| Rep Name | Computer Accessories | Electronics | Furniture | Network |
-|----------|---------------------|-------------|-----------|---------|
-| Skyler Green | $3.28K | $2.44K | $2.02K | $1.97K |
-| Shawn Nguyen | $1.67K | $8.13K | $3.14K | $3.16K |
-| Rowan Anderson | $3.80K | $5.68K | $1.24K | $4.32K |
-| Riley Harris | $3.05K | $5.70K | $2.30K | $4.46K |
-| Reese Smith | $1.92K | $2.41K | $2.08K | $1.90K |
-| Peyton Wright | $2.59K | $3.21K | $2.49K | $2.64K |
-| Peyton Torres | $1.06K | $5.72K | $2.04K | $1.67K |
-| Peyton Smith | $2.72K | $2.56K | $2.66K | $1.80K |
-| Peyton Nguyen | $3.10K | $6.05K | $2.27K | $2.07K |
-| Marley Torres | $3.34K | $3.98K | $1.32K | $1.62K |
-| Logan Scott | $1.88K | $464.52 | $1.54K | $1.44K |
-| Jules Wilson | $2.49K | $6.51K | $2.35K | $917.27 |
-| Hayden Johnson | $1.32K | $4.41K | $1.43K | $2.98K |
-| Finley Wright | $622.38 | $978.80 | $1.11K | $952.90 |
-| Finley Harris | $1.14K | $4.86K | $3.18K | $3.19K |
-| Finley Garcia | $958.53 | $5.98K | $1.32K | $3.04K |
-| **Total** | **$52.02K** | **$103.68K** | **$52.53K** | **$54.55K** |
-
 Key Insight:** **Electronics** dominates all categories with a total of **$103.68K**, nearly double every other category. **Shawn Nguyen** is the standout Electronics performer at **$8.13K**. **Computer Accessories** and **Furniture** are closely matched at**$52.02K** and **$52.53K** respectively, while **Network** sits at **$54.55K**  suggesting balanced demand across the remaining three categories.
 
 ##  Sales Performance Matrix — Rep, Region & Order Summary
