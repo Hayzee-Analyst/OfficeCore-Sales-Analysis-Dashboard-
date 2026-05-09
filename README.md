@@ -137,8 +137,6 @@ A mild recovery was recorded toward the end of the year, suggesting a clear seas
 ## Total Sales by Region
 <img width="308" height="178" alt="Image" src="https://github.com/user-attachments/assets/04d43425-b8fd-47a1-8250-ff4cea4895dd" />
 
-## 📊 Sales Performance Analysis
-
 ### Total Sales by Region
 
 The East region led overall sales, contributing **27.95%** of total revenue,
