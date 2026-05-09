@@ -155,36 +155,20 @@ The donut chart below illustrates the distribution of total sales across five re
  ##  Total Sales by Product Name
  <img width="329" height="386" alt="Image" src="https://github.com/user-attachments/assets/4c252ef2-2fd1-4410-87f9-531f49e35b50" />
 
-### Product Sales Breakdown
+### The top performing product by a clear margin was the **USB-C Hub Pro**, generating **$26K** in sales 
+nearly double most of its competitors and standing out as the undisputed revenue leader.
 
-| # | Product | Total Sales |
-|---|---------|-------------|
-| 1 | USB-C Hub – Pro | **$26K** |
-| 2 | Mechanical Keyboard | $16K |
-| 3 | Whiteboard (variant 1) | $16K |
-| 4 | Whiteboard (variant 2) | $16K |
-| 5 | Paper Clips (10-pack) | $15K |
-| 6 | Bluetooth Speaker | $15K |
-| 7 | Desk Organizer | $15K |
-| 8 | Memory Card | $15K |
-| 9 | USB-C Hub | $14K |
-| 10 | Laser Printer | $13K |
-| 11 | Photo Paper Pack | $13K |
-| 12 | SSD 1TB | $13K |
-| 13 | Network Card | $12K |
-| 14 | Portable Projector | $12K |
-| 15 | Whiteboard (variant 3) | $11K |
-| 16 | USB Wi-Fi Adapter (v1) | $11K |
-| 17 | Ergonomic Chair | $11K |
-| 18 | Network Card (v2) | $11K |
-| 19 | USB Wi-Fi Adapter (v2) | $11K |
-| 20 | USB-C Hub – P | $11K |
-| 21 | Ink Cartridge | $10K |
-| 22 | Laser Printer (variant) | $10K |
+Following behind were the **Mechanical Keyboard** and two **Whiteboard** variants, each pulling in **$16K**,
+showing strong and consistent demand across office and workspace essentials.
 
- The USB-C Hub – Pro is the clear top performer at $26K 
- significantly ahead of every other product. The next tier clusters tightly between
- $15K–$16K, showing consistent demand across office and tech accessories.
+**Paper Clips**, **Bluetooth Speaker**, **Desk Organizer**, and **Memory Card** all came in close at **$15K**,
+reflecting broad, steady interest across both tech accessories and everyday office supplies.
+
+Rounding out the top 10 was the **USB-C Hub** (standard variant) at **$14K**, suggesting that
+the Hub category as a whole holds significant customer appeal across multiple price points.
+
+> **Key Insight:** Accessories and workspace tools dominate the top 10, with the USB-C Hub Pro
+> driving the highest individual product revenue — signaling strong demand for connectivity solutions.
 
  ##  Total Sales by Rep
  <img width="322" height="174" alt="Image" src="https://github.com/user-attachments/assets/02033cb6-f754-41db-990c-cd974b6f4e7b" />
